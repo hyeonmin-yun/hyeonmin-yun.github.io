@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
+title: Hyeonmin Yun
 
 # [수정필요] 간단한 사이트 설명
 description: Acedemic Website of Seokho Son
@@ -17,8 +17,7 @@ navbar-links:
   Blog: "blog"
   Project: "project"
   GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
-
+  Google Scholar: "https://scholar.google.com/
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 avatar: "/assets/img/seokho-square-2.jpg"
