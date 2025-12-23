@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,8 @@ redirect_from:
 
 I am currently an M.S. student in Artificial Intelligence at **[Your University Name]**. My research focuses on the intersection of geometry and stochastic processes to develop more robust machine learning models.
 
-I'm also mentored by: 
+I'm also mentored by: Gunhee Cho
+
 I am particularly interested in understanding the geometric structure of data manifolds and how stochasticity can be leveraged for optimal control and sampling. My goal is to bridge the gap between rigorous mathematical theory and practical AI applications.
 
 ---
