@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an M.S. student at [**SIML**](https://siml.kaist.ac.kr/) lab in KAIST, advised by [**Juho Lee**](https://juho-lee.github.io/). I'm also mentored by [**Gunhee Cho**](https://sites.google.com/view/enjoyingmath/home) studying [**Complex geometry**](https://sites.google.com/view/enjoyingmath/home/cg-seminar-2025)  ... replace it to cpx.geo lecnote link
+I am currently an M.S. student at KAIST, advised by [**Juho Lee**](https://juho-lee.github.io/). My research interests are stochastic optimal control and optimal transport. I'm also mentored by [**Gunhee Cho**](https://sites.google.com/view/enjoyingmath/home) studying [**complex geometry**](https://sites.google.com/view/enjoyingmath/home/cg-seminar-2025)  ... replace it to cpx.geo lecnote link
 
 
 ---
 
 ## Research Interests
 
-* **Stochastic Optimal Control:** 
-* **Complex Geometry:** 
+**Stochastic Optimal Control:** 
+**Complex Geometry:** 
 
