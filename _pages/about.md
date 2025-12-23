@@ -7,24 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an M.S. student in Artificial Intelligence at [**KAIST**](https://siml.kaist.ac.kr/). advised by [**Juho Lee**](https://juho-lee.github.io/). My research focuses on the intersection of geometry and stochastic processes to develop more robust machine learning models.
+I am currently an M.S. student at [**SIML**](https://siml.kaist.ac.kr/) lab in KAIST, advised by [**Juho Lee**](https://juho-lee.github.io/). I'm also mentored by [**Gunhee Cho**](https://sites.google.com/view/enjoyingmath/home) studying [**Complex geometry**](https://sites.google.com/view/enjoyingmath/home/cg-seminar-2025)  ... replace it to cpx.geo lecnote link
 
-I'm also mentored by [**Gunhee Cho**](https://sites.google.com/view/enjoyingmath/home) studying [**Complex geometry**](https://sites.google.com/view/enjoyingmath/home/cg-seminar-2025)  ... replace it to cpx.geo lecnote link
-
-
-I am particularly interested in understanding the geometric structure of data manifolds and how stochasticity can be leveraged for optimal control and sampling. My goal is to bridge the gap between rigorous mathematical theory and practical AI applications.
 
 ---
 
 ## Research Interests
 
-My research is organized into two main pillars: theoretical foundations in geometry and their applications in scientific machine learning.
+* **Stochastic Optimal Control:** 
+* **Complex Geometry:** 
 
-### 1. Theoretical Foundations
-* **Stochastic Differential Geometry:** Analyzing diffusion processes on manifolds.
-* **Complex Geometry:** Leveraging complex structures for data representation.
-* **Stochastic Optimal Control:** Investigating control theoretical approaches to generative modeling.
-
-### 2. Methodologies & Applications
-* **Scientific Machine Learning (SciML):** Applying physics-informed priors to neural networks.
-* **Algebraic Learning Theory:** Understanding the algebraic properties of learning dynamics.
