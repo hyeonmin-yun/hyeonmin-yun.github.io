@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an M.S. student in Artificial Intelligence at **[Your University Name]**. My research focuses on the intersection of geometry and stochastic processes to develop more robust machine learning models.
+I am currently an M.S. student in Artificial Intelligence at **[Your University Name]**(https://siml.kaist.ac.kr/). advised by **[Juho Lee]**(https://juho-lee.github.io/). My research focuses on the intersection of geometry and stochastic processes to develop more robust machine learning models.
 
-I'm also mentored by: Gunhee Cho
+I'm also mentored by **[Gunhee Cho]**(https://sites.google.com/view/enjoyingmath/home) studying **[Complex geometry]**(https://sites.google.com/view/enjoyingmath/home/cg-seminar-2025)  # replace it to cpx.geo lecnote link
+
 
 I am particularly interested in understanding the geometric structure of data manifolds and how stochasticity can be leveraged for optimal control and sampling. My goal is to bridge the gap between rigorous mathematical theory and practical AI applications.
 
