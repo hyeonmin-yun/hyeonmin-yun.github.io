@@ -9,9 +9,6 @@ redirect_from:
 ---
 I am a M.S. student at KAIST, advised by [**Juho Lee**](https://juho-lee.github.io/). My research interests are stochastic optimal control and optimal transport. 
 
-I am also mentored by [**Geonhee Cho**]()
----
-
 ## Research Interests
 
 **Stochastic Optimal Control** 
