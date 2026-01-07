@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am a M.S. student at KAIST, advised by [**Juho Lee**](https://juho-lee.github.io/). My research interests are stochastic optimal control, optimal transport and complex geometry. 
 
+I am also studying mathematics within [**enjoying-math**](https://www.youtube.com/playlist?list=PL4m4z_pFWq2ob-P9m3SQZPyHTaJbbkvdz)
+
 ## Research Interests
 
 **Stochastic optimal control** 
