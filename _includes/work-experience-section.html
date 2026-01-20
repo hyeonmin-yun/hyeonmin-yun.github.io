@@ -8,8 +8,8 @@
     <div class="work-item">
       <div class="work-header">
         <div class="work-title-company">
-          <h3 class="work-title">{{ work.title }}</h3>
-          <p class="work-company">{{ work.company }}{% if work.location %} • {{ work.location }}{% endif %}</p>
+          <span class="work-title">{{ work.title }}</span>
+          <span class="work-company">{{ work.company }}{% if work.location %} • {{ work.location }}{% endif %}</span>
         </div>
         <span class="work-date">{{ work.start_date }}{% if work.end_date %} - {{ work.end_date }}{% else %} - Present{% endif %}</span>
       </div>

@@ -7,7 +7,7 @@
     {% for edu in site.data.education %}
     <div class="education-item">
       <div class="education-header">
-        <h3 class="education-degree">{{ edu.degree }}</h3>
+        <span class="education-degree">{{ edu.degree }}</span>
         <span class="education-date">{{ edu.start_date }}{% if edu.end_date %} - {{ edu.end_date }}{% endif %}</span>
       </div>
       <div class="education-details">
