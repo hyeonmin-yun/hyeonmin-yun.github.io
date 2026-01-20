@@ -3,39 +3,23 @@
 {% if site.data.projects and site.data.projects.size > 0 %}
 <section class="page__content-section">
   <h2 id="projects">Projects</h2>
-  <div class="projects-grid">
+  <div class="projects-list">
     {% for project in site.data.projects %}
     <div class="project-item">
-      <div class="project-content">
-        <div class="project-title">{{ project.title }}</div>
-        {% if project.description %}
-        <p class="project-description">{{ project.description }}</p>
-        {% endif %}
-        {% if project.technologies and project.technologies.size > 0 %}
-        <div class="project-technologies">
-          {% for tech in project.technologies %}
-          <span class="project-tech-tag">{{ tech }}</span>
-          {% endfor %}
-        </div>
-        {% endif %}
-        {% if project.github or project.demo %}
-        <div class="project-links">
-          {% if project.github %}
-          <a href="{{ project.github }}" class="project-link" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-github" aria-hidden="true"></i> GitHub
-          </a>
-          {% endif %}
-          {% if project.demo %}
-          <a href="{{ project.demo }}" class="project-link" target="_blank" rel="noopener noreferrer">
-            <i class="fas fa-external-link-alt" aria-hidden="true"></i> Demo
-          </a>
-          {% endif %}
-        </div>
-        {% endif %}
+      <div class="project-header">
+        <span class="project-title">{{ project.title }}</span>
         {% if project.date %}
-        <p class="project-date"><small>{{ project.date }}</small></p>
+        <span class="project-date">{{ project.date }}</span>
         {% endif %}
       </div>
+      {% if project.description %}
+      <p class="project-description">{{ project.description }}</p>
+      {% endif %}
+      {% if project.technologies and project.technologies.size > 0 %}
+      <p class="project-technologies">
+        <span class="project-tech-label">Technologies:</span> {{ project.technologies | join: ", " }}
+      </p>
+      {% endif %}
     </div>
     {% endfor %}
   </div>

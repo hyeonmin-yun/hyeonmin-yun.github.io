@@ -186,115 +186,63 @@
 }
 
 /* Projects Section */
-.projects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.5em;
-  margin-top: 1em;
+.projects-list {
+  .project-item {
+    margin-bottom: 1.5em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid $lighter-gray;
 
-  @include breakpoint(max-width $small) {
-    grid-template-columns: 1fr;
-    gap: 1em;
+    &:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
   }
 
-  @include breakpoint($medium) {
-    grid-template-columns: repeat(2, 1fr);
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.25em;
+    flex-wrap: wrap;
+    gap: 0.5em;
+
+    @include breakpoint(max-width $small) {
+      flex-direction: column;
+      align-items: flex-start;
+    }
   }
 
-  @include breakpoint($large) {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-.project-item {
-  background: $lighter-gray;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  padding: 1em;
-  transition: $global-transition;
-  display: flex;
-  flex-direction: column;
-
-  &:hover {
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-    border-color: $link-color;
-  }
-}
-
-.project-content {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-}
-
-.project-title {
-  margin: 0 0 0.5em 0;
-  font-size: $type-size-5;
-  font-weight: 600;
-  color: $darker-gray;
-  line-height: 1.3;
-  display: block;
-}
-
-.project-description {
-  margin: 0 0 0.75em 0;
-  color: $gray;
-  font-size: $type-size-6;
-  line-height: 1.5;
-  flex: 1;
-}
-
-.project-technologies {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.375em;
-  margin: 0.75em 0;
-}
-
-.project-tech-tag {
-  display: inline-block;
-  padding: 0.2em 0.5em;
-  background: $background-color;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  font-size: $type-size-7;
-  color: $dark-gray;
-  font-family: $monospace;
-}
-
-.project-links {
-  display: flex;
-  gap: 0.75em;
-  margin-top: 0.75em;
-  flex-wrap: wrap;
-}
-
-.project-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.375em;
-  padding: 0.375em 0.75em;
-  background: $link-color;
-  color: $body-color;
-  text-decoration: none;
-  border-radius: $border-radius;
-  font-size: $type-size-7;
-  transition: $global-transition;
-
-  &:hover {
-    background: $link-color-hover;
-    text-decoration: none;
-    color: $body-color;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  .project-title {
+    font-size: $type-size-5;
+    font-weight: 600;
+    color: $darker-gray;
+    flex: 1;
+    display: inline-block;
   }
 
-  i {
-    font-size: 0.9em;
+  .project-date {
+    color: $gray;
+    font-size: $type-size-6;
+    white-space: nowrap;
   }
-}
 
-.project-date {
-  margin: 0.75em 0 0 0;
-  color: $gray;
-  font-size: $type-size-7;
+  .project-description {
+    margin: 0.5em 0;
+    color: $gray;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+
+  .project-technologies {
+    margin: 0.5em 0 0 0;
+    color: $gray;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+
+  .project-tech-label {
+    font-weight: 600;
+    color: $dark-gray;
+  }
 }
