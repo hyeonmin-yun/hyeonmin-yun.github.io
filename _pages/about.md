@@ -1,4 +1,3 @@
-<!--
 ---
 permalink: /
 title: ""
@@ -8,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
--->
 {% include about-section.html %}
 
 {% include education-section.html %}

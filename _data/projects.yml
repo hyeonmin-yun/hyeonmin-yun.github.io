@@ -1,19 +1,18 @@
-## Dummy example projects (commented out)
-# - title: "Project Name"
-#   description: "Brief description of the project and its purpose."
-#   technologies: ["Technology 1", "Technology 2", "Technology 3"]
-#   github: "https://github.com/username/project"
-#   demo: ""
-#   image: ""
-#   date: "2024"
+- title: "Project Name"
+  description: "Brief description of the project and its purpose."
+  technologies: ["Technology 1", "Technology 2", "Technology 3"]
+  github: "https://github.com/username/project"
+  demo: ""
+  image: ""
+  date: "2024"
 
-# - title: "Another Project"
-#   description: "Description of what this project does and why it's interesting."
-#   technologies: ["Python", "Machine Learning", "TensorFlow"]
-#   github: ""
-#   demo: "https://project-demo.com"
-#   image: ""
-#   date: "2023"
+- title: "Another Project"
+  description: "Description of what this project does and why it's interesting."
+  technologies: ["Python", "Machine Learning", "TensorFlow"]
+  github: ""
+  demo: "https://project-demo.com"
+  image: ""
+  date: "2023"
 
 - title: "Complex Analysis and Riemann Surfaces: A Graduate Path to Algebraic Geometry"
   date: "2026"
