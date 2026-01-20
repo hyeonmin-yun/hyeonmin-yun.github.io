@@ -13,3 +13,13 @@
   demo: "https://project-demo.com"
   image: ""
   date: "2023"
+
+- title: "Complex Analysis and Riemann Surfaces: A Graduate Path to Algebraic Geometry"
+  date: "2026"
+  description: |
+    Graduate complex analysis lecture notes in Texas State University.
+
+    arXiv:2601.06868 (301 pp.) — Gunhee Cho, with contributions by Bae Dongsong, Junhyuk Boo, Byungjoo Jeon, Yonghyun Ji, Sumin Kim, Namho Kim, Minseung Kwak, Hojae Jung, Hyunsoo Yoo, and Hyunmin Yoon.
+
+    Link: https://arxiv.org/abs/2601.06868
+  technologies: []
