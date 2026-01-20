@@ -1,0 +1,25 @@
+{% include base_path %}
+
+{% if site.data.work_experience %}
+<section class="page__content-section">
+  <h2 id="work-experience">Work Experience</h2>
+  <div class="work-list">
+    {% for work in site.data.work_experience %}
+    <div class="work-item">
+      <div class="work-header">
+        <div class="work-title-company">
+          <h3 class="work-title">{{ work.title }}</h3>
+          <p class="work-company">{{ work.company }}{% if work.location %} • {{ work.location }}{% endif %}</p>
+        </div>
+        <span class="work-date">{{ work.start_date }}{% if work.end_date %} - {{ work.end_date }}{% else %} - Present{% endif %}</span>
+      </div>
+      {% if work.description %}
+      <div class="work-description">
+        {{ work.description | markdownify }}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

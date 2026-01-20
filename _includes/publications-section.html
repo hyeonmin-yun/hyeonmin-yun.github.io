@@ -1,0 +1,21 @@
+{% include base_path %}
+
+{% assign featured_publications = site.publications | where_exp: "pub", "pub.featured == true" | limit: 5 %}
+{% assign recent_publications = site.publications | sort: "date" | reverse | limit: 5 %}
+{% assign publications_to_show = featured_publications %}
+{% if publications_to_show.size == 0 %}
+  {% assign publications_to_show = recent_publications %}
+{% endif %}
+
+{% if publications_to_show.size > 0 %}
+<section class="page__content-section">
+  <h2 id="publications">Publications</h2>
+  <p class="section-intro">A selection of my recent publications. <a href="{{ base_path }}/publications/">View all publications</a></p>
+  
+  <div class="publications-list">
+    {% for post in publications_to_show %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

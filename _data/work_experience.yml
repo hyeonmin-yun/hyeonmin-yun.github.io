@@ -1,0 +1,19 @@
+- title: "Position Title"
+  company: "Company Name"
+  location: "Location"
+  start_date: "2024"
+  end_date: "Present"
+  description: |
+    - Key responsibility or achievement
+    - Another important point
+    - Technologies or skills used
+
+- title: "Previous Position"
+  company: "Previous Company"
+  location: "Location"
+  start_date: "2022"
+  end_date: "2024"
+  description: |
+    - Accomplishment or responsibility
+    - Project or initiative led
+    - Impact or results achieved

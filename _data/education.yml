@@ -1,0 +1,17 @@
+- degree: "M.S. in [Field]"
+  university: "KAIST"
+  location: "Seoul, South Korea"
+  start_date: "2023"
+  end_date: "Present"
+  description: "Advised by [Juho Lee](https://juho-lee.github.io/)"
+  gpa: ""
+  coursework: []
+
+- degree: "B.S. in [Field]"
+  university: "[University Name]"
+  location: "[Location]"
+  start_date: "2019"
+  end_date: "2023"
+  description: ""
+  gpa: ""
+  coursework: []

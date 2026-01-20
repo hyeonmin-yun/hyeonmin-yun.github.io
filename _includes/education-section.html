@@ -1,0 +1,33 @@
+{% include base_path %}
+
+{% if site.data.education %}
+<section class="page__content-section">
+  <h2 id="education">Education</h2>
+  <div class="education-list">
+    {% for edu in site.data.education %}
+    <div class="education-item">
+      <div class="education-header">
+        <h3 class="education-degree">{{ edu.degree }}</h3>
+        <span class="education-date">{{ edu.start_date }}{% if edu.end_date %} - {{ edu.end_date }}{% endif %}</span>
+      </div>
+      <div class="education-details">
+        <p class="education-institution">
+          <strong>{{ edu.university }}</strong>{% if edu.location %}, {{ edu.location }}{% endif %}
+        </p>
+        {% if edu.description %}
+        <p class="education-description">{{ edu.description | markdownify }}</p>
+        {% endif %}
+        {% if edu.gpa %}
+        <p class="education-gpa"><strong>GPA:</strong> {{ edu.gpa }}</p>
+        {% endif %}
+        {% if edu.coursework.size > 0 %}
+        <p class="education-coursework">
+          <strong>Relevant Coursework:</strong> {{ edu.coursework | join: ", " }}
+        </p>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

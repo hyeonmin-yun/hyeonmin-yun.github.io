@@ -17,4 +17,19 @@ I am also studying mathematics within [**enjoying-math**](https://www.youtube.co
 
 **Optimal transport** 
 
+---
+
+{% include education-section.html %}
+
+---
+
+{% include work-experience-section.html %}
+
+---
+
+{% include publications-section.html %}
+
+---
+
+{% include projects-section.html %}
 
