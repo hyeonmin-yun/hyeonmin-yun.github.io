@@ -3,7 +3,7 @@ title: "Conformal mapping Coordinates Physics-Informed Neural Networks (CoCo-PIN
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-14-coco-pinns
-date: 2025-01-14
 venue: 'Computers and Mathematics with Applications, to appear (2026+)'
-citation: 'Daehee Cho, Hyeonmin Yun, Jaeyong Lee and M. Lim'
+paperurl: 'https://arxiv.org/abs/2501.07809'
+citation: 'Daehee Cho, Hyeonmin Yun, Jaeyong Lee, Mikyoung Lim'
 ---
