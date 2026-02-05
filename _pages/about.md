@@ -24,29 +24,25 @@ I am an MS. student in **Artificial Intelligence** in KAIST, advised by Prof.Juh
 
 # 📝 Publications 
 
-- **Generative AI for Molecular Conformer Generation using SDEs**, **Your Name**, Co-author Name, Advisor Name, *Conference or Journal Name (e.g., NeurIPS 202X)*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
+- **Conformal mapping based Physics-informed neural networks for designing neutral inclusions**, Daehee Cho, **Hyeonmin Yun**, Jae Yong Lee, Mikyoung Lim *Computers and Mathematics with Applications*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
 
 # Projects
 
-[**Project**](https://your-project-page) | [**PDF**](https://link-to-pdf)
-- Simple description of the paper. e.g., We propose a novel SDE-based sampling method for...
-</div>
-</div>
-
-- [Title of Another Paper](https://link-to-paper), **Your Name**, Co-author, **Journal/Conference Name**
+**Complex Analysis and Riemann Surfaces: A Graduate Path to Algebraic Geometry** | [**PDF**](hhttps://arxiv.org/abs/2601.06868)
+- Graudate complex analysis lecture note for Texas state university
+- Gunhee Cho, with contributions from Bae Dongsong, Junhyuk Boo, Byungjoo Jeon, Yonghyun Ji, Sumin Kim, Namho Kim, Minseung Kwak, Hojae Jung, Hyunsoo Yoo, **Hyunmin Yoon**
 
 # 🎖 Honors and Awards
 - *202X.XX* Your Scholarship or Award Name
 - *202X.XX* Your Scholarship or Award Name
 
 # 📖 Educations
-- *202X.03 - Present*, **Ph.D. in Artificial Intelligence**, University Name, South Korea.
-- *202X.03 - Present*, **M.S. in Mathematics**, University Name, South Korea.
-  - Focus: Complex Analysis, Riemann Surfaces
-- *201X - 202X*, **B.S. in Your Major**, University Name.
+- *2026.03 - Present*, **M.S. in Artificial Intelligence**, KAIST, South Korea.
+  - Focus: Stochastic optimal contrl, Optimal transport
+- *2018.03 - 2025.08*, **B.S. in Mathematical Sciences**, KAIST, South Korea.
 
 # 💬 Invited Talks
 - *2025.XX*, Title of Talk, Location or Conference.
 
 # 💻 Internships
-- *202X.XX - 202X.XX*, Role, **Company/Lab Name**, Location.
+- *2025.02 - 2025.03*, LLM-Inference internship, **Furiosa AI**, Seoul, South Korea.
