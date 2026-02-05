@@ -35,6 +35,8 @@ I am currently looking for research internship opportunities in the United State
 
 - **Study on Stochastic Optimal Control and Schrödinger Bridges**, Co-author Name, **Your Name**, *Conference Name*, 2024.
 
+# Projects
+
 [**Project**](https://your-project-page) | [**PDF**](https://link-to-pdf)
 - Simple description of the paper. e.g., We propose a novel SDE-based sampling method for...
 </div>
