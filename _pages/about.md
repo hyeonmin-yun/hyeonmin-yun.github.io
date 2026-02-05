@@ -25,6 +25,7 @@ I am an M.S. Student in **Artificial Intelligence** in KAIST, advised by Prof.Ju
 - *2018.03 - 2025.08*, **B.S. in Mathematical Sciences**, KAIST, South Korea.
 
 # 💻 Internships
+- *2025.06 - 2026.02*, KAIST AI Research Internship (KAIRI), **KAIST AI**, Seoul, South Korea.
 - *2025.02 - 2025.03*, LLM-Inference internship, **Furiosa AI**, Seoul, South Korea.
 
 # 🔥 News
