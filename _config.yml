@@ -10,56 +10,35 @@ title                    : "Hyeonmin Yun"
 description              : "Hyeonmin Yun's Personal Website"
 repository               : "hyeonmin-yun/hyeonmin-yun.github.io"
 google_scholar_stats_use_cdn : true
+# -----------------------
+# [2] 분석 및 SEO (일단 비워둬도 됩니다)
+# -----------------------
+google_analytics_id      :  # 나중에 구글 애널리틱스 연동 시 입력
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
-# Site Author
+# -----------------------
+# [3] 저자 프로필 (화면에 표시되는 정보)
+# -----------------------
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name             : "본인 영문 이름"    # 예: Gil-Dong Hong
+  avatar           : "images/profile.jpg" # images 폴더에 본인 사진을 넣고 파일명 수정
+  bio              : "PhD Student in AI<br>Interested in Sampling, AI4Science & Geometry" # 줄바꿈은 <br> 사용
+  location         : "Seoul, South Korea"
+  email            : "본인이메일@univ.ac.kr" # 연락 받을 이메일
+  
+  # 학술/소셜 링크 (있는 것만 채우고 나머지는 비워두세요)
+  googlescholar    : "https://scholar.google.com/citations?user=본인_ID"
+  github           : "본인깃허브아이디"
+  linkedin         : "본인링크드인ID" # (선택 사항)
+  researchgate     :  # (선택 사항)
+  twitter          :  # (선택 사항)
+  # 필요한 다른 소셜 링크가 있다면 아래 형식 유지하며 작성
 
-
-# Reading Files
+# -----------------------
+# [4] 파일 읽기 설정 (건드리지 않음)
+# -----------------------
 include:
   - .htaccess
   - _pages
@@ -97,16 +76,15 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
-# Conversion
+# -----------------------
+# [5] 변환 및 마크다운 설정 (기본값 유지)
+# -----------------------
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -117,9 +95,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Defaults
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -127,26 +103,26 @@ defaults:
       layout: default
       author_profile: true
 
-
-# Sass/SCSS
+# -----------------------
+# [6] 디자인 및 시간대
+# -----------------------
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul  # <-- 한국 시간대로 변경했습니다.
 
-
-# Plugins
+# -----------------------
+# [7] 플러그인 (기본값 유지)
+# -----------------------
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
@@ -154,9 +130,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
