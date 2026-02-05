@@ -29,12 +29,11 @@ I am currently looking for research internship opportunities in the United State
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Year</div><img src='images/paper_thumbnail.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Generative AI for Molecular Conformer Generation using SDEs**, **Your Name**, Co-author Name, Advisor Name, *Conference or Journal Name (e.g., NeurIPS 202X)*. [\[PDF\]](link) [\[Code\]](link)
 
-[Title of Your Research Paper (e.g., Generative AI for Molecular Conformer Generation)](https://arxiv.org/your-paper-link)
+- **Sampling Algorithms for Ising and XY Models**, **Your Name**, Co-author Name, *Preprint / Under Review*, 2025.
 
-**Your Name**, Co-author Name, Advisor Name
+- **Study on Stochastic Optimal Control and Schrödinger Bridges**, Co-author Name, **Your Name**, *Conference Name*, 2024.
 
 [**Project**](https://your-project-page) | [**PDF**](https://link-to-pdf)
 - Simple description of the paper. e.g., We propose a novel SDE-based sampling method for...
