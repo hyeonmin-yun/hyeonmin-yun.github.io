@@ -17,23 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in **Artificial Intelligence** and an M.S. student in **Mathematics** based in Seoul, South Korea. My research lies at the intersection of AI and Mathematics, specifically within the domain of **AI for Science**.
-
-My primary research interests include **Sampling**, **Stochastic Optimal Control**, and **Schrödinger Bridges**. I am particularly interested in applying these concepts to the Ising and XY models, as well as generative models for molecular conformers using SDEs. On the mathematical side, I have a strong background in **Complex Analysis (Riemann Surfaces)** and **Algebraic/Differential Geometry**, which I aim to integrate into deep learning frameworks.
-
-I am currently looking for research internship opportunities in the United States (Summer/Fall 2026).
+I am an MS. student in **Artificial Intelligence** in KAIST, advised by Prof.Juho Lee. My research interests include stochastic optimal control and optimal transport. 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Starting a new project on Sampling with Annealed Distributions.
-- *2026.01*: &nbsp;🎉🎉 Implemented a new sampling-diffusion model.
+- *2026.01*: &nbsp;🎉🎉 CoCo-PINN is published!
 
 # 📝 Publications 
 
-- **Generative AI for Molecular Conformer Generation using SDEs**, **Your Name**, Co-author Name, Advisor Name, *Conference or Journal Name (e.g., NeurIPS 202X)*. [\[PDF\]](link) [\[Code\]](link)
-
-- **Sampling Algorithms for Ising and XY Models**, **Your Name**, Co-author Name, *Preprint / Under Review*, 2025.
-
-- **Study on Stochastic Optimal Control and Schrödinger Bridges**, Co-author Name, **Your Name**, *Conference Name*, 2024.
+- **Generative AI for Molecular Conformer Generation using SDEs**, **Your Name**, Co-author Name, Advisor Name, *Conference or Journal Name (e.g., NeurIPS 202X)*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
 
 # Projects
 
