@@ -22,11 +22,11 @@ baidu_site_verification  :
 # [3] 저자 프로필 (화면에 표시되는 정보)
 # -----------------------
 author:
-  name             : "본인 영문 이름"    # 예: Gil-Dong Hong
-  avatar           : "images/profile.jpg" # images 폴더에 본인 사진을 넣고 파일명 수정
-  bio              : "PhD Student in AI<br>Interested in Sampling, AI4Science & Geometry" # 줄바꿈은 <br> 사용
+  name             : "Hyeonmin Yun"    # 예: Gil-Dong Hong
+  avatar           : "images/profile-image.jpg" # images 폴더에 본인 사진을 넣고 파일명 수정
+  bio              : "M.S. Student in AI" # 줄바꿈은 <br> 사용
   location         : "Seoul, South Korea"
-  email            : "본인이메일@univ.ac.kr" # 연락 받을 이메일
+  email            : "hmkk9874@kaist.ac.kr" # 연락 받을 이메일
   
   # 학술/소셜 링크 (있는 것만 채우고 나머지는 비워두세요)
   googlescholar    : "https://scholar.google.com/citations?user=본인_ID"
