@@ -21,7 +21,7 @@ I am an M.S. Student in **Artificial Intelligence** in KAIST, advised by Prof.Ju
 
 # 📖 Educations
 - *2026.03 - Present*, **M.S. in Artificial Intelligence**, KAIST, South Korea.
-  - Focus: Stochastic optimal contrl, Optimal transport
+  - Focus: Stochastic optimal control, Optimal transport
 - *2018.03 - 2025.08*, **B.S. in Mathematical Sciences**, KAIST, South Korea.
 
 # 💻 Internships
