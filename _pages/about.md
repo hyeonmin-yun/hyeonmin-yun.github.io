@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MS. student in **Artificial Intelligence** in KAIST, advised by Prof.Juho Lee. My research interests include stochastic optimal control and optimal transport. 
+I am an M.S. Student in **Artificial Intelligence** in KAIST, advised by Prof.Juho Lee. My research interests include stochastic optimal control and optimal transport. 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 CoCo-PINN is published!
 
 # 📝 Publications 
 
-- **Conformal mapping based Physics-informed neural networks for designing neutral inclusions**, Daehee Cho, **Hyeonmin Yun**, Jae Yong Lee, Mikyoung Lim *Computers and Mathematics with Applications*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
+- **Conformal mapping based Physics-informed neural networks for designing neutral inclusions**: Daehee Cho, **Hyeonmin Yun**, Jae Yong Lee, Mikyoung Lim *Computers and Mathematics with Applications*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
 
 # Projects
 
@@ -32,17 +32,21 @@ I am an MS. student in **Artificial Intelligence** in KAIST, advised by Prof.Juh
 - Graudate complex analysis lecture note for Texas state university
 - Gunhee Cho, with contributions from Bae Dongsong, Junhyuk Boo, Byungjoo Jeon, Yonghyun Ji, Sumin Kim, Namho Kim, Minseung Kwak, Hojae Jung, Hyunsoo Yoo, **Hyunmin Yoon**
 
+''
 # 🎖 Honors and Awards
 - *202X.XX* Your Scholarship or Award Name
 - *202X.XX* Your Scholarship or Award Name
+''
 
 # 📖 Educations
 - *2026.03 - Present*, **M.S. in Artificial Intelligence**, KAIST, South Korea.
   - Focus: Stochastic optimal contrl, Optimal transport
 - *2018.03 - 2025.08*, **B.S. in Mathematical Sciences**, KAIST, South Korea.
 
+''
 # 💬 Invited Talks
 - *2025.XX*, Title of Talk, Location or Conference.
+''
 
 # 💻 Internships
 - *2025.02 - 2025.03*, LLM-Inference internship, **Furiosa AI**, Seoul, South Korea.
