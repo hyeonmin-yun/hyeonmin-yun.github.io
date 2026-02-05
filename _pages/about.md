@@ -26,7 +26,7 @@ I am an M.S. Student in **Artificial Intelligence** in KAIST, advised by Prof.Ju
 
 - **Conformal mapping based Physics-informed neural networks for designing neutral inclusions**: Daehee Cho, **Hyeonmin Yun**, Jae Yong Lee, Mikyoung Lim *Computers and Mathematics with Applications*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
 
-# Projects
+# ⚙️ Projects
 
 **Complex Analysis and Riemann Surfaces: A Graduate Path to Algebraic Geometry** | [**PDF**](hhttps://arxiv.org/abs/2601.06868)
 - Graudate complex analysis lecture note for Texas state university
