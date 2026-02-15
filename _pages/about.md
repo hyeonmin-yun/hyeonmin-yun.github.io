@@ -31,7 +31,7 @@ I am an M.S. Student in **Artificial Intelligence** in KAIST, advised by Prof.Ju
 <!-- # News
 - *2026.01*: &nbsp;🎉 The paper **Conformal mapping based Physics-informed neural networks for designing neutral inclusions** was published in [**CAMWA**](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) -->
 
-# 📝 Publications 
+# Publications 
 - **Conformal mapping based Physics-informed neural networks for designing neutral inclusions**: <br>
 Daehee Cho, **Hyeonmin Yun**, Jae Yong Lee, Mikyoung Lim *Computers and Mathematics with Applications*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
 
