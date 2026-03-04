@@ -37,7 +37,7 @@ Daehee Cho, **Hyeonmin Yun**, Jae Yong Lee, Mikyoung Lim *Computers and Mathemat
 
 # Projects
 **(On-going) Complex Analysis and Riemann Surfaces: A Graduate Path to Algebraic Geometry** | [\[PDF\]](https://arxiv.org/abs/2601.06868)
-- Graudate complex analysis lecture note for Texas state university
+- Graduate complex analysis lecture note for Texas state university
 - Gunhee Cho, with contributions from Bae Dongsong, Junhyuk Boo, Byungjoo Jeon, Yonghyun Ji, Sumin Kim, Namho Kim, Minseung Kwak, Hojae Jung, Hyunsoo Yoo, **Hyunmin Yoon**
 
 <!-- # 🎖 Honors and Awards
