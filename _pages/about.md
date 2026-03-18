@@ -36,7 +36,7 @@ I am an M.S. student in **Artificial Intelligence** at KAIST, advised by Prof. J
 Daehee Cho, **Hyeonmin Yun**, Jae Yong Lee, Mikyoung Lim *Computers and Mathematics with Applications*. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000325?via%3Dihub) 
 
 # Projects
-**(On-going) Complex Analysis and Riemann Surfaces: A Graduate Path to Algebraic Geometry** | [\[PDF\]](https://arxiv.org/abs/2601.06868)
+**Complex Analysis and Riemann Surfaces: A Graduate Path to Algebraic Geometry** | [\[PDF\]](https://arxiv.org/abs/2601.06868)
 - Graduate complex analysis lecture note for Texas state university
 - Gunhee Cho, with contributions from Bae Dongsong, Junhyuk Boo, Byungjoo Jeon, Yonghyun Ji, Sumin Kim, Namho Kim, Minseung Kwak, Hojae Jung, Hyunsoo Yoo, **Hyunmin Yoon**
 
